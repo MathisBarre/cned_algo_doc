@@ -27,7 +27,6 @@ Sommaire :
 * [Comprendre les algorithmes](#comprendre-les-algorithmes)
     * [Découvrez le fonctionnement des algorithmes](#découvrez-le-fonctionnement-des-algorithmes)
     * [Faites vos premiers pas en Python](#faites-vos-premiers-pas-en-python)
-    * [Les algorithmes en mathématiques](#les-algorithmes-en-mathématiques)
 * [Outils](#outils)
     
 ### Liens utiles
@@ -57,18 +56,20 @@ Sommaire :
 ### Comprendre les algorithmes
 
 * [Introduction]()
-* Découvrez le fonctionnement des algorithmes
-    * [Découvrez l'intérêt des algorithmes](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384797-decouvrez-linteret-des-algorithmes)
-    * [Posez les fondations](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384884-posez-les-fondations)
-    * [Ajoutez une boucle](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384913-ajoutez-une-boucle)
-    * [Découvrez les structures conditionnelles](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384937-decouvrez-les-structures-conditionnelles)
 
-* Faites vos premiers pas en python 
-    * [Découvrez Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)
-    * [Faites vos premiers pas avec l'interpreteur de commande Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230722-faites-vos-premiers-pas-avec-linterpreteur-de-commandes-python)
-    * [Entrez dans le monde merveilleux des variables](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230957-entrez-dans-le-monde-merveilleux-des-variables)
-    * [Créez des structures conditionneles](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/231174-creez-des-structures-conditionnelles)
-    * [Apprenez à faire des boucles](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/231260-apprenez-a-faire-des-boucles)
+#### Découvrez le fonctionnement des algorithmes
+
+* [Découvrez l'intérêt des algorithmes](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384797-decouvrez-linteret-des-algorithmes)
+* [Posez les fondations](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384884-posez-les-fondations)
+* [Ajoutez une boucle](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384913-ajoutez-une-boucle)
+* [Découvrez les structures conditionnelles](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes/4384937-decouvrez-les-structures-conditionnelles)
+
+#### Faites vos premiers pas en python 
+* [Découvrez Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)
+* [Faites vos premiers pas avec l'interpreteur de commande Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230722-faites-vos-premiers-pas-avec-linterpreteur-de-commandes-python)
+* [Entrez dans le monde merveilleux des variables](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230957-entrez-dans-le-monde-merveilleux-des-variables)
+* [Créez des structures conditionneles](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/231174-creez-des-structures-conditionnelles)
+* [Apprenez à faire des boucles](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/231260-apprenez-a-faire-des-boucles)
 
 * [Les algorithmes en mathématiques]()
 
