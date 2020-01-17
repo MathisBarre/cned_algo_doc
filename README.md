@@ -51,7 +51,7 @@ Sommaire :
 * [How to use Anki](https://youtu.be/5urUZUWoTLo)
 * Ali Abdal
     * [How to study for exams](https://www.youtube.com/watch?v=ukLnPbIffxE&t=1053s)
-    * [Studuying for exams](https://www.youtube.com/watch?v=k5A26Sc63F0)
+    * [Studying for exams](https://www.youtube.com/watch?v=k5A26Sc63F0)
     
 ## Comprendre les algorithmes
 
